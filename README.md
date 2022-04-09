@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Joss Moffatt</h1>
 <h3 align="center">I am interested in computational logic, automated reasoning and electronic music.</h3>
 
-- 🔭 I’m currently working on **Gavel**
+- 🔭 I’m currently working on  [**wit4java**](https://github.com/Anthonysdu/wit4java)
 
 - 📫 How to reach me **joss.moffatt@student.manchester.ac.uk**
 
