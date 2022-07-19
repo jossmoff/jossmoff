@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on  [**vscode-esbmc**](https://github.com/esbmc/vscode-esbmc)
 
-- 📫 How to reach me **joss.moffatt@student.manchester.ac.uk**
+- 📫 How to reach me **josshmoffatt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
