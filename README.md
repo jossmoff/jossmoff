@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Joss Moffatt</h1>
-<h3 align="center">I am interested in automated reasoning software verification and electronic music.</h3>
+<h3 align="center">I am interested in automated reasoning, software verification and electronic music.</h3>
 
 - 🔭 I’m currently working on  [**polywit**](https://github.com/polywit/polywit)
 
