@@ -5,4 +5,7 @@
 - 👨‍💻 I’m currently working as a Software Engineer.
 - 🍺 I’m beer a big fan.
 
-![Jossmoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=jossmoff&show_icons=true&theme=bear)
+
+<a href="#jossmoff-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=jossmoff&show_icons=true&theme=bear" alt="jossmoff" align="right" />
+</a>
