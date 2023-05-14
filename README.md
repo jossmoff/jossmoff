@@ -33,7 +33,7 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=jossmoff&show_icons=true&theme=graywhite"
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=polywit&repo=polywit&theme=graywhite"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
@@ -41,14 +41,14 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/pin/?username=polywit&repo=polywit&theme=bear"
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=jossmoff&repo=gatling-stepfunction-extension&theme=bear"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=jossmoff&show_icons=true&theme=graywhite"
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=jossmoff&repo=gatling-stepfunction-extension&theme=graywhite"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jossmoff&repo=gatling-stepfunction-extension&theme=bear"/>
 </picture>
 
 </p>
