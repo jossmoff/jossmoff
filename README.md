@@ -6,9 +6,10 @@
 </a>
 
 - 🏠 I’m currently living in Nottingham, United Kingdom.
-- 👨‍💻 I’m currently working as a Software Engineer.
-- 🍺 I’m beer a big fan.
-
+- 👨‍💻 I’m currently working as a Software Engineer at Capital One.
+- 🍺 I’m a big beer fan.
+- 🎧 I can chat your ear off about electronic music.
+- 🔎 I have specialities in automated reasoning and software security.
 
 
 
