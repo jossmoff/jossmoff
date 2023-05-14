@@ -1,5 +1,7 @@
 # [![joss moffatt header](https://github.com/jossmoff/jossmoff/blob/main/assets/banner.png?raw=true)](https://joss.dev)
 
+<br>
+
 ## 👨 About Me
 
 
@@ -21,11 +23,43 @@
 - 🍺 I’m a big beer fan.
 - 🎧 I can chat your ear off about electronic music.
 - 🔎 I have specialities in automated reasoning and software security.
-- 🧪 I like to write tests.
+- 🧪 I like to write tests, especially when it involves the cloud.
 
 ## 👷 What I'm Working On
+<p float="left">
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=polywit&repo=polywit&theme=bear"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jossmoff&show_icons=true&theme=graywhite"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</picture>
 
-<hr>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=polywit&repo=polywit&theme=bear"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=jossmoff&show_icons=true&theme=graywhite"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"/>
+</picture>
+
+</p>
+
+## ☁️ My Certifications
+
+<p float="left">
+  <img src="icons/certifications/saa.png" width="100" />
+  <img src="icons/certifications/dva.png" width="100" />
+</p>
+
 
 
 
