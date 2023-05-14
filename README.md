@@ -53,8 +53,8 @@
 ## ☁️ My Certifications
 
 <p float="left">
-  <img src="icons/certifications/saa.png" width="100" />
-  <img src="icons/certifications/dva.png" width="100" />
+  <img src="icons/certifications/saa.png" width="150" />
+  <img src="icons/certifications/dva.png" width="150" />
 </p>
 
 
