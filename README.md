@@ -35,7 +35,7 @@
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=polywit&repo=polywit&theme=graywhite"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" height="100px"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"/>
 </picture>
 
 <picture>
@@ -47,7 +47,7 @@
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jossmoff&repo=gatling-stepfunction-extension&theme=graywhite"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jossmoff&repo=gatling-stepfunction-extension&theme=bear" height="100px"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jossmoff&repo=gatling-stepfunction-extension&theme=bear"/>
 </picture>
 
 ## ☁️ My Certifications
