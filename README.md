@@ -23,7 +23,7 @@
 - 🍺 I’m a big beer fan.
 - 🎧 I can chat your ear off about electronic music.
 - 🔎 I have specialities in automated reasoning and software security.
-- 🧪 I like to write tests, especially when it involves the cloud.
+- 🧪 I like testing cloud architectures.
 
 ## 👷 What I'm Working On
 <p float="left">
