@@ -26,7 +26,6 @@
 - 🧪 I like testing cloud architectures.
 
 ## 👷 What I'm Working On
-<p float="left">
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=polywit&repo=polywit&theme=bear"
@@ -36,7 +35,7 @@
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=polywit&repo=polywit&theme=graywhite"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" height="100px"/>
 </picture>
 
 <picture>
@@ -48,10 +47,8 @@
   srcset="https://github-readme-stats.vercel.app/api/pin/?username=jossmoff&repo=gatling-stepfunction-extension&theme=graywhite"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=jossmoff&repo=gatling-stepfunction-extension&theme=bear"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jossmoff&repo=gatling-stepfunction-extension&theme=bear" height="100px"/>
 </picture>
-
-</p>
 
 ## ☁️ My Certifications
 
