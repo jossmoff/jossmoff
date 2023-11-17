@@ -4,8 +4,6 @@
 
 ## 👨 About Me
 
-
-
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=jossmoff&show_icons=true&theme=bear"
